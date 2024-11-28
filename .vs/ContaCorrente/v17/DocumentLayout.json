@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\Meu Drive\\Estudo programa\u00E7\u00E3o\\C#\\ContaCorrente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82DCC154-5572-4018-987F-4BB8CA29AAF6}|ContaCorrente\\ContaCorrente.csproj|c:\\users\\mathe\\onedrive\\meu drive\\estudo programa\u00E7\u00E3o\\c#\\contacorrente\\contacorrente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DCC154-5572-4018-987F-4BB8CA29AAF6}|ContaCorrente\\ContaCorrente.csproj|solutionrelative:contacorrente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Meu Drive\\Estudo programa\u00E7\u00E3o\\C#\\ContaCorrente\\ContaCorrente\\Program.cs",
+              "RelativeDocumentMoniker": "ContaCorrente\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Meu Drive\\Estudo programa\u00E7\u00E3o\\C#\\ContaCorrente\\ContaCorrente\\Program.cs",
+              "RelativeToolTip": "ContaCorrente\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:17:24.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
